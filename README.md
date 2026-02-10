@@ -71,6 +71,8 @@ DATA:    DB 09H, 05H, 06H, 0AH ; Array of data
 ```
 ## OUTPUT OF THE PROGRAM:
 ![stepup motor 2](https://github.com/user-attachments/assets/db1f41a6-1a62-484c-aa3e-761e61d0c625)
+![stepup motor 2](https://github.com/user-attachments/assets/e2dd29d9-b118-4243-a552-a6eec282c44e)
+
 
 ## RESULT
 
